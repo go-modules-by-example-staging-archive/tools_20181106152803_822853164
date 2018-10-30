@@ -2,6 +2,8 @@
 
 package main
 
+// another comment
+
 import "strconv"
 
 const _Pill_name = "PlaceboAspirinIbuprofenParacetamol"
