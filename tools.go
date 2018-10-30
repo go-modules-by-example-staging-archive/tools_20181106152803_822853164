@@ -1,5 +1,7 @@
 // +build tools
 
+// comment
+
 package tools
 
 import (
